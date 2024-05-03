@@ -1,4 +1,8 @@
 ,SISTEMA,FRECUENCIA
-0,Android,38
-1,iOS,9
-2,Windows,3
+0,Android,4896
+1,iOS,991
+2,Windows,327
+3,Mac,113
+4,Linux,32
+5,Unknown,25
+6,Chrome-OS,4
